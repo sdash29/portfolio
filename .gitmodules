@@ -1,0 +1,6 @@
+[submodule "stopwatch"]
+	path = stopwatch
+	url = https://github.com/sdash29/stopwatch.git
+[submodule "combo-safe"]
+	path = combo-safe
+	url = https://github.com/sdash29/combo-safe.git
