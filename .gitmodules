@@ -4,3 +4,6 @@
 [submodule "combo-safe"]
 	path = combo-safe
 	url = https://github.com/sdash29/combo-safe.git
+[submodule "Tron-light-cycle-game"]
+	path = Tron-light-cycle-game
+	url = https://github.com/sdash29/Tron-light-cycle-game.git
