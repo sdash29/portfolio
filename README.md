@@ -1,2 +1,2 @@
 # portfolio
-Here is a portfolio of all my projects
+Here is a portfolio of some of my projects
