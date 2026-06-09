@@ -7,3 +7,6 @@
 [submodule "Tron-light-cycle-game"]
 	path = Tron-light-cycle-game
 	url = https://github.com/sdash29/Tron-light-cycle-game.git
+[submodule "keypad-module"]
+	path = keypad-module
+	url = https://github.com/sdash29/keypad-module.git
